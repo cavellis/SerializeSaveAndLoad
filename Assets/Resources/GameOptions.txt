@@ -1,0 +1,1 @@
+{"enemySpawnTime":0,"playerSpeed":0,"enemyTypes":[{"moveSpeed":2,"prefabName":"BatPrefab","id":0},{"moveSpeed":4,"prefabName":"GhostPrefab","id":1}]}
