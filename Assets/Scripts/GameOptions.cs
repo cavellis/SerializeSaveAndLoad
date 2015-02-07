@@ -29,7 +29,6 @@ public class GameOptions : MonoBehaviour
 	public string SaveData()
 	{	
 		string data = JsonWriter.Serialize(this);
-		Debug.Log(data);
 		return data;
 	}
 
